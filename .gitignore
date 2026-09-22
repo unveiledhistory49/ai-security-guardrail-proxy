@@ -20,13 +20,15 @@ config.nvidia.yaml
 *.test
 coverage.html
 
-# Python cache & virtualenvs
+# Python cache, virtualenvs & development scripts
 __pycache__/
+*.py
 *.py[cod]
 *$py.class
 .venv/
 env/
 venv/
+scratch/
 
 # OS and Editor metadata
 .DS_Store
