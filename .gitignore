@@ -9,7 +9,6 @@ bin/
 *.local.yaml
 *.local.json
 config.nvidia.yaml
-DESIGN.md
 
 # Runtime logs and audit storage
 *.log
