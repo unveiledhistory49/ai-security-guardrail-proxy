@@ -1,1 +1,0 @@
-ADR-005-cryptographic-hash-chained-audit-ledger.md

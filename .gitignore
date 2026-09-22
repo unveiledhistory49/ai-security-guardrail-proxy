@@ -34,3 +34,6 @@ scratch/
 .DS_Store
 .idea/
 .vscode/
+
+# Internal documentation
+docs/

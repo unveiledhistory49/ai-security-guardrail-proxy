@@ -228,14 +228,6 @@ Output:
 
 ---
 
-## Documentation and Technical References
+## License
 
-For technical specifications, security invariants, and threat models:
-- [Design Document](file:///root/ai-security-guardrail-proxy/DESIGN.md)
-- [Architecture Specification](file:///root/ai-security-guardrail-proxy/docs/ARCHITECTURE.md)
-- [Security Boundaries](file:///root/ai-security-guardrail-proxy/docs/SECURITY-BOUNDARIES.md)
-- [Threat Model](file:///root/ai-security-guardrail-proxy/docs/THREAT-MODEL.md)
-- [Failure Modes](file:///root/ai-security-guardrail-proxy/docs/FAILURE-MODES.md)
-- [SLO & Metrics Catalog](file:///root/ai-security-guardrail-proxy/docs/SLO.md)
-- [Operational Runbooks](file:///root/ai-security-guardrail-proxy/docs/OPERATIONS.md)
-- [Architectural Decision Records (ADRs)](file:///root/ai-security-guardrail-proxy/docs/adr/)
+MIT License. See [LICENSE](LICENSE) for details.
