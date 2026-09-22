@@ -1,0 +1,34 @@
+# Compiled Binaries
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Local configs and sensitive runtime files
+*.local.yaml
+*.local.json
+config.nvidia.yaml
+
+# Runtime logs and audit storage
+*.log
+/var/log/guardrail/
+/tmp/guardrail*
+
+# Test output and artifacts
+*.out
+*.test
+coverage.html
+
+# Python cache & virtualenvs
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# OS and Editor metadata
+.DS_Store
+.idea/
+.vscode/
