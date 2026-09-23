@@ -1,3 +1,13 @@
+# Secrets and environment variables
+.env
+.env.*
+*.env
+!.env.example
+*.key
+*.pem
+*.secret
+credentials.json
+
 # Compiled Binaries
 bin/
 *.exe
@@ -37,3 +47,4 @@ scratch/
 
 # Internal documentation
 docs/
+DESIGN.md
